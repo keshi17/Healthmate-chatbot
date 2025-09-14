@@ -1,4 +1,3 @@
-# Healthmate-chatbot
 # 🩺 HealthMate Chatbot
 
 ## 📌 Overview
